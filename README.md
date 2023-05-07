@@ -39,14 +39,16 @@ npm run dev
 Check in browser on [http://localhost:5000/](http://localhost:5000/)
 
 ### Deploy to AWS EC2 and store files at S3 Bucket
-
+```
 AWS EC2 instance is created and is live on ->
 Instance: i-083e53963050b7cb4 (mydevserver)
 Public IP address : 3.19.211.110
+```
 
+```
 AWS S3 bucket info -> 
 Amazon Resource Name (ARN): arn:aws:s3:::developerspace
-
+```
 
 ## App Info
 
